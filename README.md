@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahmoud
+- 👋 Hi, I’m Mahmoud an electrical engineering student at HTI university
 - 👀 I’m interested in web field
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me mahmoudmhussian@gmail.com
